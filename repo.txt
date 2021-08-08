@@ -1,0 +1,23 @@
+
+create new repo in your online github account, initialise with readme.
+
+then in bash termnal type : 
+$ git clone https://github.com/pravinpatole/get-tutorial_repo.git
+
+output will be:
+Cloning into 'get-tutorial_repo'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+
+now check if the directory has made with same name : $ ls
+
+go in this directory: $cd get-tutorial_repo
+
+then check git status:
+$ git status
+
+output:
+
+
